@@ -13,3 +13,5 @@ If you found this project useful, consider buying me a coffee
 tinymp3 -b 64 input.mp3 ouput.mp3
 
 tinymp3 -b 16 input.wav ouput.mp3
+
+
